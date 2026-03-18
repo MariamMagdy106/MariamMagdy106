@@ -40,15 +40,6 @@ A full-stack AI-powered system for monitoring industrial machines and predicting
 * **Database:** SQL Server
 * **AI:** Python, Pandas, Scikit-learn, LSTM
 * **Tools:** Git, GitHub
-
-#### 👩‍💻 My Role:
-
-* Designed and implemented RESTful APIs
-* Built data processing pipeline for time-series data
-* Developed and integrated LSTM model for prediction
-* Ensured scalable and modular system architecture
-* Implemented authentication & authorization using JWT 🔐
-
 ---
 
 ## 💼 Experience
