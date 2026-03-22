@@ -1,6 +1,6 @@
 # 👩‍💻 Mariam Magdy
 
-🎓 Computer Science Graduate | 💡 AI & .NET Developer | 🚀 ITI Trainee
+🎓 Computer Science Graduate | 💡.NET Developer | 🚀 ITI Trainee
 
 ---
 
